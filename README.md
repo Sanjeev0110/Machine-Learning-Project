@@ -1,6 +1,3 @@
 # Machine-Learning-Project
-This repository contains my machine learning project.
-
-## basic necessary system requiremetns:-
-* my name is sanjeev. subramanya is my friend.  
-sachin is also my firend.
+## readfile function
+* this function will read a file from the user and print its content on the command line.
