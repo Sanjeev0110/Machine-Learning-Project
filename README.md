@@ -1,6 +1,4 @@
-================================================
-FILE: README.md
-================================================
+
 Distributed Denial of Service (DDoS) Machine Learning Project
 This project is an implementation of a machine learning solution for detecting and mitigating Distributed Denial of Service (DDoS) attacks. The project aims to analyze network traffic patterns and leverage machine learning algorithms to identify and mitigate potential DDoS attacks in real-time.
 
@@ -19,17 +17,14 @@ Integrate the models into a real-time detection and mitigation system.
 Evaluation
 The performance of the machine learning models should be evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score. The evaluation should be performed on a separate test set to assess the generalization capability of the models.
 
-================================================
 FILE: AdaBoostClassifier.pkl
-================================================
+
 [Binary file]
 
-================================================
 FILE: machine_learning_project.ipynb
-================================================
 # Jupyter notebook converted to Python script.
 
-================================================
+
 FILE: Normalization_model.pkl
 ================================================
 [Binary file]
